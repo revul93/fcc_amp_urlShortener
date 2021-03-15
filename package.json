@@ -1,0 +1,25 @@
+{
+  "name": "fcc_amp_urlshortener",
+  "version": "1.0.0",
+  "description": "URL shortener API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revul93/fcc_amp_urlShortener.git"
+  },
+  "author": "revul93",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/revul93/fcc_amp_urlShortener/issues"
+  },
+  "homepage": "https://github.com/revul93/fcc_amp_urlShortener#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
